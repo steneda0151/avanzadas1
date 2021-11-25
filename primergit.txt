@@ -1,3 +1,3 @@
-I am on my way to passing the Cisco DEVASC exam
+I am on my way to DevNet the Cisco DEVASC exam
 practicando en git
 probando una nueva rama
